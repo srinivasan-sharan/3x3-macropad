@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "random-keyboard-parts")(type "Legacy")(uri "C:/Users/shrns/Documents/GitHub/3x3-macropad/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+  (lib (name "MX_Alps_Hybrid")(type "Legacy")(uri "C:/Users/shrns/Documents/GitHub/3x3-macropad/MX_Alps_Hybrid.pretty/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
+)
